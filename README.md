@@ -1,4 +1,16 @@
 # Example.EMA.Java.AuthExample
+
+```
+Options:
+  -?                            Shows this usage
+
+  -authurl <authurl>           Required: Authentication URL to get a token (e.g. http://<AuthServer>:8443/getToken)
+  -username <username>         Required: Username
+  -password <password>         Required: Password
+  -service <service>           Required: Service name
+  -item <ric>                  Optional: A RIC
+```
+
 ```
 mvn package 
 ```
