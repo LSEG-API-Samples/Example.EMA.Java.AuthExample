@@ -1,5 +1,5 @@
 # EMA Java UserAuthn Authentication Example
-This EMA C++ example demonstrates how to get tokens from a token generate and use retrieved tokens to login to ADS. For more information, please refer to this article. 
+This EMA Java example demonstrates how to get tokens from a token generate and use retrieved tokens to login to ADS. For more information, please refer to this article. 
 
 The example requires the following parameters.
 
